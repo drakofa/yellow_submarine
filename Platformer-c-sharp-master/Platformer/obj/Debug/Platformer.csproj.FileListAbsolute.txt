@@ -1,0 +1,10 @@
+D:\Platformer-c-sharp-master\Platformer\bin\Debug\Platformer.exe.config
+D:\Platformer-c-sharp-master\Platformer\bin\Debug\Platformer.exe
+D:\Platformer-c-sharp-master\Platformer\bin\Debug\Platformer.pdb
+D:\Platformer-c-sharp-master\Platformer\obj\Debug\Platformer.csproj.AssemblyReference.cache
+D:\Platformer-c-sharp-master\Platformer\obj\Debug\Platformer.Form1.resources
+D:\Platformer-c-sharp-master\Platformer\obj\Debug\Platformer.Properties.Resources.resources
+D:\Platformer-c-sharp-master\Platformer\obj\Debug\Platformer.csproj.GenerateResource.cache
+D:\Platformer-c-sharp-master\Platformer\obj\Debug\Platformer.csproj.CoreCompileInputs.cache
+D:\Platformer-c-sharp-master\Platformer\obj\Debug\Platformer.exe
+D:\Platformer-c-sharp-master\Platformer\obj\Debug\Platformer.pdb
